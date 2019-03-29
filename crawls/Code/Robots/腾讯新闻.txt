@@ -1,0 +1,4 @@
+https://news.qq.com/robots.txt
+
+User-agent: *
+Disallow: 

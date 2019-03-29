@@ -1,0 +1,5 @@
+http://www.qq.com/robots.txt
+
+User-agent: *
+Disallow:  
+Sitemap: http://www.qq.com/sitemap_index.xml

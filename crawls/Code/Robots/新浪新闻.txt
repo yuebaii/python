@@ -1,0 +1,6 @@
+https://news.sina.com.cn/robots.txt
+
+User-agent: *
+Disallow: /wap/
+Disallow: /iframe/
+Disallow: /temp/
