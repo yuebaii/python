@@ -1,0 +1,61 @@
+图灵机器人：
+1.8edce3ce905a4c1dbb965e6b35c3834d
+2.bfaddb5c7af1404fb016373fc5669339
+3.eb720a8970964f3f855d863d24406576
+4.1107d5601866433dba9599fac1bc0083
+5.71f28bf79c820df10d39b4074345ef8c
+
+天气：
+1.https://api.seniverse.com/v3/weather/now.json?key=5zbxlpmphtb2t0h8&location=beijing&language=zh-Hans&unit=c
+  5zbxlpmphtb2t0h8
+
+个人：
+1.http://www.yangyingming.com/api/get_poetry/
+2.http://www.yangyingming.com/api/get_joke/
+
+小豆机器人：http://api.douqq.com/?key=VGNSRj12SEk9cTFueW54d2RHeEZraXVnVHhZQUFBPT0&msg=消息
+1.VGNSRj12SEk9cTFueW54d2RHeEZraXVnVHhZQUFBPT0
+  1.报时 msg=报时
+2.每日一句 msg=每日一句
+3.抽签 msg=抽签
+4.猜谜 msg=猜谜
+5.笑话 msg=笑话
+6.糗事 msg=糗事
+7.QQ吉凶 msg=QQ号(例如：msg=94113786)
+8.md5加密 msg=md5+空格+欲加密的内容(例如：md5加密admin)
+9.计算 msg=计算13-2
+10.空气质量 msg=城市名+空气质量(例如：msg=厦门空气质量)
+11.天气 msg=城市名+天气(例如：msg=厦门天气)
+12.身份证 msg=身份证号(例如：msg=330282197908022538)
+13.ip查询 msg=ip地址(例如：msg=112.64.235.86)
+14.手机归属地 msg=手机号(例如：msg=13838383838)
+15.汉字转拼音 msg=拼音+欲转的汉字(例如：msg=拼音小豆)
+16.查快递 msg=快递+单号(例如：msg=快递1106279322505)
+17.藏头诗 msg=藏头诗+开头的字(例如：藏头诗我为秋香)
+18.翻译 汉译英 msg=翻译+中文(例如：msg=翻译我爱你)
+19.一言 msg=一言(例如：msg=一言)
+20.银行卡 msg=银行卡+卡号(例如：msg=银行卡6228481552887309119)
+21.人民币数字转大写 msg=大写+数字(例如：msg=大写1542)
+22.人品 msg=人品+姓名(例如：msg=人品刘小虎)
+23.磁力链接 msg=磁力+电影名称(例如：msg=磁力变形金刚)
+24.周公解梦 msg=梦见+梦中的事物(msg=梦见结婚)
+25.新华字典 msg=字典+汉字(例如：msg=字典豆)
+26.汉语词典 msg=词典+汉字(例如：msg=词典小豆)
+27.成语词典 msg=成语+汉字(例如：msg=成语大智若愚)
+28.音乐下载 msg=点歌+歌名(例如：msg=点歌小苹果)
+29.查歌词 msg=歌词+歌名(例如：msg=歌词小苹果)
+30.疾病症状 msg=疾病名+症状(例如：msg=感冒症状)
+31.疾病病因 msg=疾病名+病因(例如：msg=感冒病因)
+32.疾病治疗 msg=疾病名+怎么治疗(例如：msg=感冒怎么治疗)
+33.菜谱查询 msg=菜名+的做法(例如：msg=豆沙包的做法)
+34.百科查询 msg=什么是+名词(例如：msg=什么是机器人)
+35.历史上的今天 msg=历史上的今天
+36.百家姓 msg=李
+37.知道问答 msg=***的原因 或 为什么***(例如：msg=引起头晕的原因 或者 msg=为什么我的电脑很卡)
+38.电影下载 msg=电影+影片名(例如：msg=电影疯狂动物城) 更新时间：2016.05.20
+39.短网址转换 msg=短网址+网页地址(例如：msg=短网址http://xiao.douqq.com)更新时间：2016.07.06
+40.脑筋急转弯 msg=脑筋急转弯(例如：msg=脑筋急转弯) 更新时间：2016.07.07
+
+百度翻译：
+APP ID：20180425000150432         20151113000005349
+密钥：e_5H0etVlFQEjTZFJYAN        osubCEzlGjzvw8qdQc41
